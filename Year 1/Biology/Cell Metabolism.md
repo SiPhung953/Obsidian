@@ -1,0 +1,16 @@
+#Lecture #CellBio 
+- Comprised of the chemical reactions that occur in living cells
+	- Anabolism (Đồng hoá) e.g: Quang hợp: The synthesis of larger molecules from simpler ones (typically input of energy)
+	- Catabolism (Dị hoá) e.g: Hô hấp tế bào; The breakdown of larger molecules into simpler ones
+- ATP:
+	- Components: sugar ribose, nitrogenous base adenine, three phosphate group
+	- Hydrolysis of ATP: release free energy to perform three types of cellular work - Chemical, Transport, Mechanical
+	- ATP power cellular work by coupling exergonic reactions to endergonic reactions
+	- ATP (Tri Phosphate) $\rightarrow$ ADP (Di Phosphate) + P; + energy $\rightarrow$ AMP (Mono Phosphate)
+	- ATP regen:
+		- ATP = renewable resources that can be regen by the addition of phosphate to ADP
+		- Energy released by breakdown (catabolism)
+	- Cellular Respiration:
+		- The <label class="ob-comment" title="TCA" style=""> tricarboxylic acid cycle <input type="checkbox"> <span style=""> TCA (AKA the Krebs cycle or the Citric Acid cycle) </span></label> is a series of chemicals reactions used in <label class="ob-comment" title="" style=""> aerobic organism <input type="checkbox"> <span style=""> pro- and eukaryotes </span></label> to generate energy via the oxidation of Acetyle-Coenzyme A (CoA)
+		- 1 NaDH $\rightarrow$ 1 $H^+$ ; 2 $e^-$
+		- 

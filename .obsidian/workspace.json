@@ -1,0 +1,309 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "5db96869d1007c1b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb2b2db14d823736",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4fdc2b77d488576f",
+    "type": "split",
+    "children": [
+      {
+        "id": "8479b0ba1849704d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d004a759b19c65a9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a36bed47b4a237a2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1480e9c347d607d6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 269.50379180908203
+  },
+  "right": {
+    "id": "b65f61cc6fb35ab9",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb4a2e041df5559b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b49c2eb03f8bb56e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fadab0e5c8827900",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "43ebbfbaf6386b56",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Digital Image Processing.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Digital Image Processing"
+            }
+          },
+          {
+            "id": "3884e36e0990eaef",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "4562bba23a971d3c",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
+          },
+          {
+            "id": "9be900c4f3846c18",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "260bc1a5023cb63e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f086d1a84a2dffa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Digital Image Processing.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Digital Image Processing"
+            }
+          },
+          {
+            "id": "a354afe598c46ab7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Digital Image Processing.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Digital Image Processing"
+            }
+          }
+        ]
+      },
+      {
+        "id": "6b4acb5782389b75",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3cf51e432de928e4",
+            "type": "leaf",
+            "state": {
+              "type": "ob_comments",
+              "state": {},
+              "icon": "lines-of-text",
+              "title": "Comments"
+            }
+          }
+        ]
+      },
+      {
+        "id": "d5f926124a8917db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea8380ac535b07b7",
+            "type": "leaf",
+            "state": {
+              "type": "ob_comments",
+              "state": {},
+              "icon": "lines-of-text",
+              "title": "Comments"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 256.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:Open format converter": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "workspaces:Manage workspace layouts": false,
+      "zk-prefixer:Create new unique note": false,
+      "obsidian-comments:Show Comments Panel": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "d004a759b19c65a9",
+  "lastOpenFiles": [
+    "Linux Type Shi.md",
+    "Digital Image Processing.md",
+    "Pasted image 20250520144501.png",
+    "Pasted image 20250520143834.png",
+    "Pasted image 20250520143430.png",
+    "Pasted image 20250520142503.png",
+    "Pasted image 20250520142254.png",
+    "Pasted image 20250520140912.png",
+    "Pasted image 20250520140752.png",
+    "Pasted image 20250520133817.png",
+    "Pasted image 20250520133146.png",
+    "Pasted image 20250515130412.png",
+    "Theory of Computation - Boolean Algebra.md",
+    "Theory of Computation - Algorithm.md",
+    "Untitled 3.md",
+    "Untitled 2.md",
+    "Chap 1 - Why do we test software.md",
+    "Untitled 1.md",
+    "Notes on Make.com.md",
+    "^364830.md",
+    "Hub Gen AI Notable Question.md",
+    "whether the memory is full or not.md",
+    "Year 2/Machine Learning/Linear Regression, Gradient Descent.md",
+    "Year 2/Machine Learning/Machine Learning.md",
+    "Regularization.md",
+    "Year 2/Machine Learning/Logistic Regression.md",
+    "Year 2/Signals and Systems No.1.md",
+    "Computer Network.md",
+    "Untitled.md",
+    "Score Evaluation and Classes.md",
+    "Computer Network - Introduction.md",
+    "Todo.md",
+    "Some notes on Github.md",
+    "Year 2/Project Management QnA.md",
+    "Year 2/Machine Learning",
+    "Year 2/OOP/OOP Study.md",
+    "Year 2/Databases/Databases Lecture 1.md",
+    "Year 2/OOP",
+    "Year 2/ADS",
+    "Year 2/Databases",
+    "Year 2",
+    "Year 1",
+    "Year 1/Physics/Thermo",
+    "Year 1/Physics/Motion",
+    "Images",
+    "Excalidraw",
+    "Excalidraw/Untitled.canvas",
+    "Untitled.canvas"
+  ]
+}
