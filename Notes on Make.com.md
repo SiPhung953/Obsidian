@@ -1,1 +1,0 @@
-Send only the phrases that should be highlightted to https://yaytext.com/vi/ and chose the third format to encode the Bold texts, then remove yaytext's watermarks.

@@ -14,3 +14,15 @@
 - Attendance: 10%
 - Assignment: 40%
 - Final exam: 50%
+
+### Web App Dev
+- Attendance: 0%
+- Midterm (MCQ Moodle): 40%
+	- Theory focused
+- Final (MCQ Paper): 60%
+	- Coding and skills
+
+### Mobile App Dev
+- Attendance: 0%
+- Midterm (MCQ Moodle): 40%
+- Final (Project presentation): 60%
