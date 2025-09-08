@@ -26,3 +26,8 @@
 - Attendance: 0%
 - Midterm (MCQ Moodle): 40%
 - Final (Project presentation): 60%
+
+### Deep Learning
+- Attendance: 0%
+- Midterm (MCQ Moodle): 40%
+- Final (Undecided Project/Paper): 60%
