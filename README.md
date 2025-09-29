@@ -1,0 +1,2 @@
+This is my Obsidian Notes, used for subject revision
+Written in my language, so be selective with what you want to read

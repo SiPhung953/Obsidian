@@ -22,55 +22,21 @@
             }
           },
           {
-            "id": "bb661346b3df5e7f",
+            "id": "f380b2696345cda9",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/Pasted image 20250908205057.png"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250908205057"
-            }
-          },
-          {
-            "id": "a66675f3ff280217",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Pasted image 20250911223851.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250911223851"
-            }
-          },
-          {
-            "id": "b483df233144ee00",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Pasted image 20250912142410.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250912142410"
-            }
-          },
-          {
-            "id": "c6bbfde9aca1d04d",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Pasted image 20250908205057.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250908205057"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.50379180908203
+    "width": 269.50379180908203,
+    "collapsed": true
   },
   "right": {
     "id": "b65f61cc6fb35ab9",
@@ -224,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/Pasted image 20250908205057.png",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +201,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Pasted image 20250908205057"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -292,15 +259,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d004a759b19c65a9",
+  "active": "f380b2696345cda9",
   "lastOpenFiles": [
-    "Images/Pasted image 20250912175930.png",
-    "Images/Pasted image 20250912142410.png",
-    "Images/Pasted image 20250911223851.png",
+    "Year 3/Mobile App Dev/1) Fundamentals.md",
+    "README.md",
     "Images/Pasted image 20250908205057.png",
+    "Images/Pasted image 20250911223851.png",
+    "Images/Pasted image 20250912142410.png",
+    "Images/Pasted image 20250912175930.png",
     "Year 3/Mobile App Dev/2) Resource.md",
     "Year 3/Intro to Deep Learning",
-    "Year 3/Mobile App Dev/1) Fundamentals.md",
     "Year 3/Intro to Deep Learning/1) Introduction.md",
     "Year 3/Intro to Deep Learning/4) Backpropagation.md",
     "Year 3/Web App Dev/3. CSS.md",
