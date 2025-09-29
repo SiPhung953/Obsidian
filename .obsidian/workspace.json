@@ -25,18 +25,52 @@
             "id": "bb661346b3df5e7f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "2) Resource.md",
-                "mode": "source",
-                "source": false
+                "file": "Images/Pasted image 20250908205057.png"
               },
-              "icon": "lucide-file",
-              "title": "2) Resource"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250908205057"
+            }
+          },
+          {
+            "id": "a66675f3ff280217",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Pasted image 20250911223851.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250911223851"
+            }
+          },
+          {
+            "id": "b483df233144ee00",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Pasted image 20250912142410.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250912142410"
+            }
+          },
+          {
+            "id": "c6bbfde9aca1d04d",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Pasted image 20250908205057.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250908205057"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -93,8 +127,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.50379180908203,
-    "collapsed": true
+    "width": 269.50379180908203
   },
   "right": {
     "id": "b65f61cc6fb35ab9",
@@ -191,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2) Resource.md",
+                "file": "Images/Pasted image 20250908205057.png",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +234,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2) Resource"
+              "title": "Backlinks for Pasted image 20250908205057"
             }
           },
           {
@@ -259,22 +292,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bb661346b3df5e7f",
+  "active": "d004a759b19c65a9",
   "lastOpenFiles": [
-    "2) Resource.md",
+    "Images/Pasted image 20250912175930.png",
+    "Images/Pasted image 20250912142410.png",
+    "Images/Pasted image 20250911223851.png",
+    "Images/Pasted image 20250908205057.png",
+    "Year 3/Mobile App Dev/2) Resource.md",
+    "Year 3/Intro to Deep Learning",
     "Year 3/Mobile App Dev/1) Fundamentals.md",
-    "Pasted image 20250908205057.png",
-    "1) Introduction.md",
-    "4) Backpropagation.md",
+    "Year 3/Intro to Deep Learning/1) Introduction.md",
+    "Year 3/Intro to Deep Learning/4) Backpropagation.md",
     "Year 3/Web App Dev/3. CSS.md",
     "Year 3/Web App Dev/2. HTML.md",
     "Year 3/Web App Dev/1. Introduction.md",
-    "Pasted image 20250912175930.png",
-    "Pasted image 20250911223851.png",
     "Year 3/Web App Dev/5. Node.js.md",
     "Actions trigger events.md",
     "filesystem.js",
-    "Pasted image 20250912142410.png",
     "Score Evaluation and Classes.md",
     "Excalidraw/Vector Space Q1.excalidraw.md",
     "Excalidraw/Drawing 2024-10-22 14.51.03.excalidraw.md",
@@ -292,7 +326,6 @@
     "Hub Gen AI Notable Question.md",
     "Year 2/Digital Image Processing.md",
     "Year 2/Theory of Computation - Boolean Algebra.md",
-    "Year 2/Theory of Computation - Algorithm.md",
     "Images/Pasted image 20250425103954.png",
     "Images/Pasted image 20250423092506.png",
     "Images/Pasted image 20250416091735.png",
@@ -306,7 +339,6 @@
     "Year 2/ADS",
     "Year 2/Databases",
     "Year 2",
-    "Year 1",
     "Excalidraw/Untitled.canvas",
     "Untitled.canvas"
   ]
