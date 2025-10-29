@@ -21,6 +21,7 @@ View
 ```
 Everything derive from `View`
 
+---
 ### Layout
 Layout is a way to organize Views inside an UI, located in `res/layout` 
 Every UI is a hierarchical structure, as in layout is built as a tree of nested containers and elements
@@ -39,7 +40,7 @@ So what if the tree doesn't have root? (ViewGroup(s) but no outside container)
 
 A layout can be changed by the WYSIWYG editor or manually coded
 
-##### XML of a Layout
+##### 1) XML of a Layout
 - Required properties: layout_width, layout_height
 
 How can the layout adapt to different device size and orientation? -> Adaptive Layout
@@ -47,7 +48,7 @@ We use different layout XMLs in different directory `res/...`
 - Size: `layout-large`, `layout-xlarge`, `layout-normal`, `layout-small`
 - Orientation: `layout-land`, `layout-port`
 
-##### Layout Classes
+##### 2) Layout Classes
 `FrameLayout`
 - Multiple layers, Z-based order
 - First child start at the bottom, going up like writing Z backward
@@ -61,11 +62,61 @@ $$\omega_{i}=\frac{\gamma_{i}}{\sum_{j=0}^{n-1}\limits{\gamma_{j}}}\times(\omega
 - With $(\sum_{j=0}^{n-1}\limits{\gamma_{j}})$ as the total weight of all children
 - And $(\sum_{k=0}^{n-1}\limits{\omega_{k}}|\gamma_{k}=0)$ is the space taken by children with no weight (fixed size)
 
-Example: Given $\omega_{parent}=720px, \omega_{1}=1, \omega_{2}=0, \omega_{3}=1, \textit{Child 2 = 100px}$
-$$\omega_{\textit{1 or 3}}=\frac{1}{1+0+1}\times(720-100)=310px$$
+Example: Given $\omega_{parent}=720px, \omega_{child1}=1, \omega_{child2}=0, \omega_{child3}=1, \textit{Child 2 = 100px}$
+$$\omega_{\textit{child 1 or 3}}=\frac{1}{1+0+1}\times(720-100)=310px$$
 
 `RelativeLayout`
 - Multiple layers, Z-order based
 	- Going from bottom to top like `FrameLayout`
 - Children's position and size related to parent and each other
 ![[Pasted image 20250930164750.png]]
+
+> [!NOTE] Questions
+> How to simulate vertical LinearLayout using RelativeLayout?
+> op: With defined height, we can use `android:layout_alignParentLeft` and `android:layout_alignParentRight` to simulate the blocking of LinearLayout
+> 
+> Is it possible to simulate LinearLayout's stretching feature (`layout_weight`) using RelativeLayout?
+> op: Probably not, you can approximate RelativeLayout to be able to stretch (by giving a child a fixed height, then the next child with `layout_below` and `alignParentEnd`), but not in an automatic way of `layout_weight`
+
+##### 3) ViewPager
+Among many ViewGroup, ViewPager is the one that we will be focusing on
+ - For Horizontal swipe gesture
+ - Use TabLayout as a separate view to display tab's name
+ - Each tab content is a fragment
+ - Need an adapter to specify which fragment is in which page
+Use PagerAdapter's `getItem` method to return fragment
+
+---
+### Values
+Is the central point of all constant
+Defined in `res/(whatever folder)`
+
+---
+### Raw data
+Anything that is note common types
+Can be stored in `res/raw` or `assets/`
+
+`res/raw`
+Anything stored in here is a **resource**
+Can be accessed with `Context.getResources()`
+Called by `R.raw.(name)`
+Use `InputStream` method to access binary data
+```
+InputStream is = context.getResources().openRawResource(R.raw.resid);
+
+```
+
+`assets/`
+Anything stored in here is **not a resource**
+Cannot be called (no `R.(assets)`)
+Can use `InputStream` with `getAssets()`
+```
+InputStream is = getAssets().open("<filename>");
+```
+
+---
+### Menu
+Has 3 types
+- App wide actions (in the App Bar)
+- Context Menu
+- Popup Menu

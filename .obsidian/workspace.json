@@ -8,35 +8,105 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bfcda7797bea1621",
+            "id": "82e5a17068f8d74f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6) Front-End Dev with Node.js.md",
+                "file": "Year 3/Mobile App Dev/2) Resource.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6) Front-End Dev with Node.js"
+              "title": "2) Resource"
             }
           },
           {
-            "id": "bae8ff40dcbd6e0e",
+            "id": "fc5bb73ab7827dfc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7) Python Flask.md",
+                "file": "Plagiarism.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7) Python Flask"
+              "title": "Plagiarism"
+            }
+          },
+          {
+            "id": "451bdbc4d55d4f37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Best Practices of Software Engineering.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Best Practices of Software Engineering"
+            }
+          },
+          {
+            "id": "1184f4cfbde53fa0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "bcfe9d54c5071732",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Todo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Todo"
+            }
+          },
+          {
+            "id": "29a8c73f0c80ad56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Score Evaluation and Classes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Score Evaluation and Classes"
+            }
+          },
+          {
+            "id": "c5dfde993b40b09f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Year 3/Scientific Writing/Report recommendation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Report recommendation"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -93,8 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.50379180908203,
-    "collapsed": true
+    "width": 269.50379180908203
   },
   "right": {
     "id": "b65f61cc6fb35ab9",
@@ -191,7 +260,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7) Python Flask.md",
+                "file": "Year 3/Scientific Writing/Report recommendation.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +270,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 7) Python Flask"
+              "title": "Backlinks for Report recommendation"
             }
           },
           {
@@ -259,16 +328,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bae8ff40dcbd6e0e",
+  "active": "d004a759b19c65a9",
   "lastOpenFiles": [
-    "6) Front-End Dev with Node.js.md",
-    "7) Python Flask.md",
+    "Year 3/Scientific Writing/CV.md",
+    "Year 3/Scientific Writing/Report recommendation.md",
+    "Year 3/Scientific Writing/Plagiarism.md",
+    "Year 3/Scientific Writing/Bad CV Example.md",
+    "Untitled.md",
+    "Score Evaluation and Classes.md",
+    "Year 3/Object Oriented Software Engineering and Design",
+    "Todo.md",
+    "Year 3/Web App Dev/7. Python Flask.md",
+    "Hub Gen AI Notable Question.md",
+    "Year 3/Object Oriented Software Engineering and Design/Best Practices of Software Engineering.md",
     "Year 3/Web App Dev/5. Node.js.md",
     "Year 3/Mobile App Dev/2) Resource.md",
-    "Pasted image 20250930164750.png",
+    "Year 3/Scientific Writing/Course Objective.md",
+    "Year 3/Scientific Writing/Introduction.md",
+    "Year 3/Scientific Writing",
+    "Images/Pasted image 20250930164750.png",
+    "README.md",
+    "Year 3/Web App Dev/6. Front-End Dev with Node.js.md",
     "Pasted image 20250930164707.png",
     "Year 3/Mobile App Dev/1) Fundamentals.md",
-    "README.md",
     "Images/Pasted image 20250908205057.png",
     "Images/Pasted image 20250911223851.png",
     "Images/Pasted image 20250912142410.png",
@@ -281,21 +363,9 @@
     "Year 3/Web App Dev/1. Introduction.md",
     "Actions trigger events.md",
     "filesystem.js",
-    "Score Evaluation and Classes.md",
     "Excalidraw/Vector Space Q1.excalidraw.md",
     "Excalidraw/Drawing 2024-10-22 14.51.03.excalidraw.md",
-    "Excalidraw/Drawing 2024-06-12 22.02.17.excalidraw.md",
-    "Excalidraw/Vector Space Q2.excalidraw.md",
-    "Excalidraw/Proving Polynomial Space.md",
-    "Excalidraw/Drawing 2023-11-25 22.04.49.excalidraw.md",
     "Year 3/Mobile App Dev",
-    "Year 2/Computer Network.md",
-    "Untitled 2.md",
-    "Untitled 3.md",
-    "Computer Network - Introduction.md",
-    "Some notes on Github.md",
-    "Todo.md",
-    "Hub Gen AI Notable Question.md",
     "Images/Pasted image 20250425103954.png",
     "Images/Pasted image 20250423092506.png",
     "Images/Pasted image 20250416091735.png",
@@ -305,8 +375,6 @@
     "Year 2/Machine Learning",
     "Year 2/OOP",
     "Year 2/ADS",
-    "Year 2/Databases",
-    "Year 2",
     "Excalidraw/Untitled.canvas",
     "Untitled.canvas"
   ]

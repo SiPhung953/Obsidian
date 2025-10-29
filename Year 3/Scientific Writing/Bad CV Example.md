@@ -1,0 +1,5 @@
+- Focus too much text on secondary info (Technical Skills and Soft Skills), too little text on the main info (Experience, Personal Goal/Hobbies, Education History, Certificates)
+- Too much text everywhere, tightly packed information, looks more like a resume than a CV
+- Put "too" technical terms/casual terms in CV (E.g: Bounty Boys: OWASP "Top 10 Series" (What does this top 10 series even mean? What is Bounty Boys or OWASP?))
+- No time defined for work experience/project
+- Mix up work experience and social experience, work experience should detail out what you did that's related to your major

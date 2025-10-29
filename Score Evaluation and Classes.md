@@ -31,3 +31,21 @@
 - Attendance: 0%
 - Midterm (MCQ Moodle): 40%
 - Final (Undecided Project/Paper): 60%
+
+### Scientific Writing
+Total hrs: 24h (Lecture + Practical)
+- Attendance: 10%
+- Midterm: 30%
+	- Poster/CV presentation
+- Final (Group): 60%
+	- Oral presentation, no QA after present
+Nội dung có thể chế (Because Mock Defense), you can use something that you are familiar with, vì nội dung được đánh giá theo văn mồm, slide dễ hiểu không > Thông tin có real hay không
+
+### OOAD
+- Attendance: 10%
+- Exercises: 25%
+	- 2 types of exercise
+		- Exercises will be given at the end of each lecture slide, complete at home and hand in next week
+		- On class exercise: Use StarUML to draw certain diagram and hand in on class
+- Mid-term: 15%
+- Final exam: 50%
