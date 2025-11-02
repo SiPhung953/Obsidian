@@ -9,5 +9,6 @@
   },
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "tabSize": 3
+  "tabSize": 3,
+  "readableLineLength": false
 }

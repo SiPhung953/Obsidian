@@ -4,6 +4,7 @@
   "textFontFamily": "Calibri",
   "monospaceFontFamily": "Courier",
   "enabledCssSnippets": [
-    "Justify"
-  ]
+    "wide-content"
+  ],
+  "cssTheme": "Minimal"
 }

@@ -1,0 +1,8 @@
+.markdown-source-view,
+.markdown-preview-view {
+  max-width: none !important;
+}
+
+.markdown-preview-view.is-readable-line-width .markdown-preview-sizer {
+  max-width: 100% !important;
+}
