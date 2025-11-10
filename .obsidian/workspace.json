@@ -30,8 +30,24 @@
               "icon": "lucide-file",
               "title": "Todo"
             }
+          },
+          {
+            "id": "fa3de52a18bf0179",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Score Evaluation and Classes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Score Evaluation and Classes"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -209,29 +225,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9be900c4f3846c18",
+  "active": "fa3de52a18bf0179",
   "lastOpenFiles": [
+    "Year 3/Scientific Writing/Bad CV Example.md",
+    "Year 3/Scientific Writing/Report recommendation.md",
+    "Year 3/Scientific Writing/Course Objective.md",
+    "Year 3/Scientific Writing/Plagiarism.md",
+    "Year 3/Scientific Writing/Introduction.md",
+    "Score Evaluation and Classes.md",
+    "Todo.md",
+    "Year 3/Web App Dev/7. Python Flask.md",
+    "README.md",
+    "Untitled.md",
     "Year 3/Web App Dev/3. CSS.md",
     "Year 3/Mobile App Dev/1) Fundamentals.md",
     "Year 1/Discrete Math Final.md",
-    "Todo.md",
     "Tasks Plugin - Review and check your Statuses 2025-11-02 23-18-54.md",
     "Year 3/Mobile App Dev/2) Resource.md",
-    "Score Evaluation and Classes.md",
     "Hub Gen AI Notable Question.md",
-    "README.md",
     "Year 1/Computer Architecture HW Chap1.md",
-    "Year 3/Scientific Writing/Report recommendation.md",
     "Year 3/Scientific Writing/CV.md",
-    "Year 3/Scientific Writing/Plagiarism.md",
-    "Year 3/Scientific Writing/Bad CV Example.md",
-    "Untitled.md",
     "Year 3/Object Oriented Software Engineering and Design",
-    "Year 3/Web App Dev/7. Python Flask.md",
     "Year 3/Object Oriented Software Engineering and Design/Best Practices of Software Engineering.md",
     "Year 3/Web App Dev/5. Node.js.md",
-    "Year 3/Scientific Writing/Course Objective.md",
-    "Year 3/Scientific Writing/Introduction.md",
     "Year 3/Scientific Writing",
     "Images/Pasted image 20250930164750.png",
     "Year 3/Web App Dev/6. Front-End Dev with Node.js.md",

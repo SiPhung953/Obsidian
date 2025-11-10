@@ -38,7 +38,8 @@ Total hrs: 24h (Lecture + Practical)
 - Midterm: 30%
 	- Poster/CV presentation
 - Final (Group): 60%
-	- Oral presentation, no QA after present
+	- 10 mins oral presentation, no QA after present
+		- Only need to show up and sign paper, no need for all group members to give speech
 Nội dung có thể chế (Because Mock Defense), you can use something that you are familiar with, vì nội dung được đánh giá theo văn mồm, slide dễ hiểu không > Thông tin có real hay không
 
 ### OOAD
