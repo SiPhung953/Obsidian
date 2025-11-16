@@ -50,3 +50,11 @@ Nội dung có thể chế (Because Mock Defense), you can use something that yo
 		- On class exercise: Use StarUML to draw certain diagram and hand in on class
 - Mid-term: 15%
 - Final exam: 50%
+
+### Distributed System
+Lecture: 27h + Practical: 9h
+- Attendance: 10%
+- Midterm: 30%
+	- Group project
+- Final exam: 60%
+	- Possibly paper code
