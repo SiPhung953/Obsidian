@@ -1,10 +1,8 @@
 {
   "accentColor": "",
-  "baseFontSize": 20,
+  "baseFontSize": 22,
   "textFontFamily": "Calibri",
   "monospaceFontFamily": "Courier",
-  "enabledCssSnippets": [
-    "wide-content"
-  ],
+  "enabledCssSnippets": [],
   "cssTheme": "Minimal"
 }
