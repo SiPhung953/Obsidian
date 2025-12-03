@@ -58,17 +58,4 @@ PRAM Models
 - How the data can be 
 	- SISD: Each Processor, Receive one instruction, and the Processor will only handle one Data at a time
 	- SIMD: Each Processor, Receive one instruction, and the Processor can handle multiple Data at a time
-
-
-Scalability in Distributed System
-- The bigger the problem -> The more system we use
-- Example:
-	- A Classical J2EE Multi-tier application
-		- Client -> (Web Server -> Backend -> DB) (This whole part is a System)
-		- We can duplicate the System to handle more users
-		- We can add a Load Balancer to handle to work load from the Client
-		- But just adding more Systems is inefficient and complex (There are cases where you have an optimized DB and don't need more than 1)
-		- We then duplicate individual Component of the System, each level of the website has a load balancer to handle traffic
-		- Thus we have Clients -> Load Balancer -> Web Server 1/2/3 -> Load Balancer -> Backend 1/2/3 -> Load Balancer -> DB 1(/2/3)
-		- Fault-Tolerance:
-			- Say we have 3 Web Server (Which is the standard anyway), if one Web Server was to go down, the Load Balancer can simply cut the connection to that Web Server, and the Client wouldn't see that a Web Server is down, they would only notice a change in performance
+	- 
