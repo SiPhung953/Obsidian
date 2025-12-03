@@ -21,8 +21,23 @@
               "icon": "lucide-file",
               "title": "Introduction to Distributed Systems"
             }
+          },
+          {
+            "id": "e7a130e8a83abc77",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Class Notes/Year 3/Distributed System/Introduction to Distributed Systems.md",
+                "bFile": "Class Notes/Year 3/Distributed System/Introduction to Distributed Systems.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Introduction to Distributed Systems"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -200,24 +215,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4cf981cd59f0ae89",
+  "active": "e7a130e8a83abc77",
   "lastOpenFiles": [
+    "Class Notes/Year 3/Distributed System/Introduction to Distributed Systems.md",
+    "Todo.md",
+    "Class Notes/Year 3/Object Oriented Software Engineering and Design/Homework/OOSAD Homework Lecture 4.md",
+    "Untitled.md",
     "Class Notes/Year 3/Scientific Writing/SciWri Slides.md",
     "Untitled 1.md",
     "Class Notes",
     "CLB/mail thông báo.md",
     "CLB/mô tả sự kiện.md",
     "CLB/QOTD 23-11-2023.md",
-    "Class Notes/Year 3/Distributed System/Introduction to Distributed Systems.md",
     "DistributedSystem.md",
     "Untitled 1.base",
     "Untitled.canvas",
     "19-11-2025.md",
     "Untitled.base",
     "README.md",
-    "Class Notes/Year 3/Object Oriented Software Engineering and Design/Homework/OOSAD Homework Lecture 4.md",
     "Class Notes/Year 3/Object Oriented Software Engineering and Design/Homework",
-    "Class Notes/Todo.md",
     "Class Notes/Score Evaluation and Classes.md",
     "Year 3/Distributed System.md",
     "Class Notes/Year 3/Distributed System",
